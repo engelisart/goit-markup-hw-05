@@ -779,7 +779,7 @@ img {
   letter-spacing: 0.04em;
 }
 .footer-btn-sub {
-  width: 165px;
+  min-width: 165px;
   height: 40px;
 
   display: flex;
